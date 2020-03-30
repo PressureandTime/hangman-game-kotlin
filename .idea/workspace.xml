@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86b920b0-2b53-4b84-b8d0-801b6dffd856" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoK3eKr0GeuqgBQj3iuK4QdFWX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run Hangman" type="JetRunConfigurationType">
+      <module name="Hangman" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HangmanKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86b920b0-2b53-4b84-b8d0-801b6dffd856" name="Default Changelist" comment="" />
+      <created>1585499808307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585499808307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585499877465">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="291" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585499877465" />
+    <state x="504" y="192" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585499876452">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="504" y="192" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585499876452" />
+    <state width="1622" height="230" key="GridCell.Tab.0.bottom" timestamp="1585592788507">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1622" height="230" key="GridCell.Tab.0.bottom/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585592788507" />
+    <state width="1622" height="230" key="GridCell.Tab.0.center" timestamp="1585592788506">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1622" height="230" key="GridCell.Tab.0.center/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585592788506" />
+    <state width="1622" height="230" key="GridCell.Tab.0.left" timestamp="1585592788505">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1622" height="230" key="GridCell.Tab.0.left/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585592788505" />
+    <state width="1622" height="230" key="GridCell.Tab.0.right" timestamp="1585592788507">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1622" height="230" key="GridCell.Tab.0.right/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585592788507" />
+    <state x="405" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1585593518242">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="405" y="233" key="com.intellij.ide.util.TipDialog/0.0.1676.902/-1920.0.1676.902@0.0.1676.902" timestamp="1585593518242" />
+  </component>
+</project>
